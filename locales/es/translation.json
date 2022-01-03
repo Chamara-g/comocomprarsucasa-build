@@ -1,0 +1,305 @@
+{
+  "navBar": {
+    "Loan_Program": "Programa de préstamos",
+    "FHA_Loans": "Préstamos FHA",
+    "VA_Loans": "Préstamos VA",
+    "Fannie_Mae": "Fannie Mae",
+    "Tools_&_Resources": "Herramientas y recursos",
+    "More": "Mas",
+    "Articles": "Artículos",
+    "Videos": "Videos",
+    "Check_My_Eligibility": "¡Verifique mi elegibilidad!"
+  },
+  "questionsStep": {
+    "CHECK_YOUR": "COMPROBAR SU ELEGIBILIDAD HOY!",
+    "LAST_YEAR_OVER": "EL ÚLTIMO AÑO MÁS DE 1 MILLÓN DE PROPIETARIOS USARON NUESTRO PRÉSTAMO *",
+    "I_want_to": "Quiero ",
+    "buy": "compra",
+    "a_home": " una casa",
+    "refinance": "refinanciar",
+    "my_home": " mi casa",
+    "back": "← Atrás",
+    "next": "SIGUIENTE →",
+    "City_or_Zip_Code": "Ciudad o Código Postal",
+    "Cities_and_Zip_Code": "Ciudades, Códigos ZIP",
+    "Zip_Code": "Códigos ZIP",
+    "Zip_Codes": "Códigos ZIP",
+    "required": "Campo requerido",
+    "SPEND_NEW_HOME": {
+      "head": "¿Cuánto planeas gastar en tu nueva casa?",
+      "sub": "(Una estimación está bien)",
+      "ans_1": "menos de $50,000",
+      "ans_2": "$50,000 - $100,000",
+      "ans_3": "$100,000 - $150,000",
+      "ans_4": "$150,000 - $200,000",
+      "ans_5": "$200,000 - $250,000",
+      "ans_6": "$250,000 - $300,000",
+      "ans_7": "$300,000 - $350,000",
+      "ans_8": "$350,000 - $400,000",
+      "ans_9": "$400,000 o más"
+    },
+    "LOAN_TYPE": {
+      "head": "¿Qué tipo de préstamo hipotecario está refinanciando?",
+      "ans_1": "Préstamo convencional",
+      "ans_2": "Préstamo del USDA",
+      "ans_3": "Préstamo VA",
+      "ans_4": "Préstamo FHA",
+      "ans_5": "No lo sé"
+    },
+    "LOAN_GOAL": {
+      "head": "¿Cuál es su objetivo de refinanciamiento de préstamos hipotecarios?",
+      "ans_1": "Retirar efectivo de mi casa",
+      "ans_2": "Pagar deudas a casa",
+      "ans_3": "Reducir mis pagos mensuales"
+    },
+    "HOME_VALUE": {
+      "head": "¿Cuál es el valor de su casa?",
+      "sub": "(Una estimación está bien)",
+      "error": "Introduzca un valor válido"
+    },
+    "REMAINING_BALANCE": {
+      "head": "¿Cuál es el saldo restante de su préstamo actual?",
+      "sub": "(Una estimación está bien)",
+      "error": "Introduzca un valor válido"
+    },
+    "MORTGAGE_INTEREST": {
+      "head": "¿Cuál es la tasa de interés hipotecaria actual?",
+      "error": "Seleccione un valor válido",
+      "placeHolder": "Seleccione su tasa de interés actual",
+      "ans_1": "Menos del 3%",
+      "ans_2": "Más del 10%",
+      "ans_3": "No lo sé"
+    },
+    "HOME_TYPE": {
+      "head": "¿Qué tipo de casa estás buscando?",
+      "ans_1": "Unifamiliar",
+      "ans_2": "Condominio",
+      "ans_3": "Casa adosada",
+      "ans_4": "Multifamiliar",
+      "ans_5": "Móvil / Fabricado",
+      "ans_6": "Construcción nueva",
+      "ans_7": "Otro"
+    },
+    "HOW_USE_HOME": {
+      "head": "¿Cómo usarás tu nuevo hogar?",
+      "head_1": "¿Cómo estás usando esta casa?",
+      "ans_1": "Residencia principal",
+      "ans_2": "Casa secundaria / vacacional",
+      "ans_3": "Propiedad de inversión"
+    },
+    "OWN_LAND": {
+      "head": "¿Poseerá o alquilará el terreno en el que se encuentra su casa?",
+      "sub": "Su prestamista utilizará esta información para determinar qué tipo de préstamo es adecuado para usted",
+      "ans_1": "Propio",
+      "ans_2": "Alquilar"
+    },
+    "FIRST_TIME_USE": {
+      "head": "¿Es la primera vez que compra una casa?",
+      "ans_1": "No",
+      "ans_2": "Sí"
+    },
+    "OWN_HOME": {
+      "head": "¿Actualmente tienes una casa?",
+      "ans_1": "Sí, actualmente tengo una casa",
+      "ans_2": "No, actualmente estoy alquilando",
+      "ans_3": "No, tengo otros arreglos de vivienda"
+    },
+    "WHEN_PURCHASE": {
+      "head": "¿Cuándo planeas realizar la compra de tu casa?",
+      "ans_1": "Inmediatamente: firmó un acuerdo de compra",
+      "ans_2": "En 30 días",
+      "ans_3": "3 - 6 meses",
+      "ans_4": "LO ANTES POSIBLE: Se encontró una casa / Oferta pendiente",
+      "ans_5": "2-3 meses",
+      "ans_6": "6 meses o más",
+      "ans_7": "Sin marco de tiempo / Aún investigando opciones"
+    },
+    "SERVED_MILITARY": {
+      "head": "¿Usted (o su cónyuge) ha servido alguna vez en el ejército de los EE. UU.?",
+      "sub": "Los militares en servicio activo y los veteranos pueden calificar para un préstamo de VA con un pago inicial de $ 0 y sin PMI.",
+      "ans_1": "No militar",
+      "ans_2": "Sí, yo (o mi cónyuge) entregué"
+    },
+    "MILITARY_BRANCH": {
+      "head": "¿Cuál es su rama del servicio militar?",
+      "ans_1": "Ejército",
+      "ans_2": "Azul marino",
+      "ans_3": "Guardacostas",
+      "ans_4": "Cónyuge militar",
+      "ans_5": "Cuerpo de Marines",
+      "ans_6": "Fuerza Aérea",
+      "ans_7": "Guardia Nacional",
+      "ans_8": "Otro VA",
+      "ans_9": "No militar"
+    },
+    "DOWN_PAYMENT": {
+      "head": "¿Cuánto del anticipo le gustaría hacer?",
+      "sub": "(Una estimación está bien)",
+      "ans_1": "0%",
+      "ans_2": "5% ($ 20 000 +)",
+      "ans_3": "15% ($ 60 000 +)",
+      "ans_4": "3.5% ($ 14,000 +)",
+      "ans_5": "10% ($ 40 000 +)",
+      "ans_6": "20% ($ 80 000 +)",
+      "ans_7": "Más del 20%"
+    },
+    "CURRENT_EMPLOYMENT": {
+      "head": "¿Cuál es su situación laboral actual?",
+      "ans_1": "Empleado",
+      "ans_2": "Trabajador autónomo / Contratista independiente 1099",
+      "ans_3": "Retirado",
+      "ans_4": "No empleado"
+    },
+    "ANNUAL_INCOME": {
+      "head": "¿Cuál es el ingreso anual bruto (antes de impuestos) de su hogar?",
+      "ans_1": "Menos de $ 30 000",
+      "ans_2": "$ 50 000 - $ 75 000",
+      "ans_3": "$ 30 000 - $ 50 000",
+      "ans_4": "$ 75 000 - $ 100 000",
+      "ans_5": "Más de $ 100,000"
+    },
+    "HAVE_BANKRUPTCY": {
+      "head": "¿Se ha declarado en quiebra en los últimos 3 años?",
+      "ans_1": "No",
+      "ans_2": "Sí"
+    },
+    "CURRENT_CREDIT_SCORE": {
+      "head": "¿Cuál es su puntaje crediticio actual?",
+      "ans_1": "Excelente (720+)",
+      "ans_2": "Aceptable (660-679)",
+      "ans_3": "Deficiente (580-619)",
+      "ans_4": "Bueno (680-719)",
+      "ans_5": "Inferior al promedio (620-659)",
+      "ans_6": "Malo (por debajo de 580)"
+    },
+    "WORK_REAL_ESTATE": {
+      "head": "¿Trabaja con un agente inmobiliario?",
+      "ans_1": "No",
+      "ans_2": "Sí"
+    },
+    "MORTGAGE_PAYMENT": {
+      "head": "¿Ha realizado algún pago hipotecario atrasado en los últimos 12 meses?",
+      "ans_1": "No",
+      "ans_2": "Sí"
+    },
+    "WHERE_BUY": {
+      "head": "¿Dónde busca comprar?",
+      "error": "Ingresa una ubicación válida en EE. UU."
+    },
+    "CURRENT_ZIP_CODE": {
+      "head": "¿Cuál es su código postal actual?",
+      "error": "Introduzca un código postal válido de 5 dígitos"
+    },
+    "CURRENT_ADDRESS": {
+      "head": "¿Cuál es su dirección postal y código postal actuales?",
+      "error": "Introduzca un código postal válido de 5 dígitos",
+      "Can_not_empty": "No se puede vaciar",
+      "Should_less_30": "Debe tener menos de 30 caracteres"
+    },
+    "USER_EMAIL": {
+      "head": "¿Cuál es su dirección de correo electrónico?",
+      "error": "Introduzca una dirección de correo electrónico válida de EE. UU.",
+      "placeHolder": "Tu correo electrónico"
+    },
+    "USER_NAME": {
+      "head": "¿Cómo te llamas?",
+      "input_1": "Primero",
+      "input_2": "Última",
+      "Can_not_empty": "No se puede vaciar",
+      "Should_less_20": "Debe tener menos de 20 caracteres"
+    },
+    "USER_PHONE_NUMBER": {
+      "head": "¿Cuál es el mejor número para localizarlo?",
+      "sub": "Un prestamista lo llamará para discutir sus opciones",
+      "error": "Introduzca un número de teléfono de EE. UU. válido",
+      "next": "¡Obtenga mi igualación de prestamista! →"
+    },
+    "THANK_YOU": {
+      "head": "Gracias",
+      "sub": "Lo identificaron con Magnolia Bank, quien pronto lo llamará o le enviará un correo electrónico:",
+      "txt_1": "Magnolia Bank",
+      "txt_2": "- NMLS ID # 423028",
+      "txt_3": "Darin Dwyer",
+      "txt_4": "- NMLS ID # 845295",
+      "txt_5": "de 5,",
+      "txt_6": "opiniones",
+      "txt_7": "La división hipotecaria de Magnolia Bank es uno de los principales originadores bancarios del país con más de mil millones de dólares en préstamos hipotecarios al año",
+      "txt_8": "Montos del préstamo desde $ 25,000 hasta $ 2,000,000",
+      "txt_9": "Ofrece productos hipotecarios residenciales competitivos en los 50 estados",
+      "txt_10": "Cotizaciones de tarifas personalizadas y gratuitas",
+      "txt_11": "Opciones para puntuaciones FICO por debajo de 600",
+      "txt_12": "Llamar",
+      "txt_13": "¡para hablar con un especialista en préstamos de Magnolia Bank ahora!",
+      "txt_14": "Mientras tanto, consulte estas ofertas personalizadas:",
+      "txt_15": "Siguiente paso: obtenga su FICO® Score instantáneo",
+      "txt_16": "El 90% de los principales prestamistas utilizan FICO® Scores al tomar decisiones sobre préstamos",
+      "txt_17": "Vea sus puntajes de crédito más recientes y su informe de crédito de $ 1 en segundos. ¡Es rápido y seguro!",
+      "txt_18": "Con inscripción en Experian CreditWorks ™",
+      "txt_19": "© 2021 ImportantScore.com",
+      "txt_20": "Compruébalo ahora"
+    },
+    "FAIL_SUBMISSION": {
+      "head": "Reprobar envío",
+      "sub": "¡Llámenos para obtener más detalles, a continuación se mencionan sus datos!"
+    },
+    "LOADING_DETAILS": {
+      "head": "Por favor, espere",
+      "sub": "¡Estamos procesando sus datos!"
+    }
+  },
+  "homePage": {
+    "Fast_Real": "Préstamos inmobiliarios rápidos",
+    "A_First": "¡Compradores de vivienda por primera vez, inversionistas residenciales, e inversionistas comerciales que buscan tarifas competitivas! ¡Términos! Costos!",
+    "Check_your": "Verifique su elegibilidad →",
+    "How": "Cómo funciona",
+    "Complete": "Guía completa del préstamo",
+    "The_below": "¡Las instrucciones siguientes le ayudarán a realizar el proceso fácilmente!",
+    "Interview": "ENTREVISTA",
+    "Discuss_terms": "Discuta los términos y escenarios de pago con su agente de préstamos de inversión.",
+    "Terms": "TÉRMINOS",
+    "Review_your": "Revise su oferta de plazo con su agente de préstamos y envíela para una evaluación rápida",
+    "Funding": "FINANCIAMIENTO",
+    "Get_a_fast": "Obtén una aprobación rápida y haz zoom para cerrar: en algunos casos, tan rápido como 5 días",
+    "What": "Qué dicen los clientes",
+    "Testimonials": "Testimonios",
+    "Here_you": "¡Aquí puedes hacerte una idea de lo que hacemos y cómo puedes confiar en nosotros!",
+    "View_All_Videos": "Ver todos los videos",
+    "To_gather": "Para recopilar conocimientos",
+    "Articles": "Artículos",
+    "You_can": "Puede obtener algunas ideas básicas para algunos detalles principales que debe conocer acerca de los préstamos desde aquí.",
+    "View_All_Articles": "Ver todos los artículos"
+  },
+  "callUs": {
+    "head": "Llámanos ahora",
+    "sub": "COMOCOMPRARSUCASA no solo puede alimentar sus proyectos sino garantizarle rapidez, facilidad y comunicación en el camino.",
+    "btn": "Comenzar →"
+  },
+  "quoteReq": {
+    "head": "Verifique los requisitos oficiales de préstamos",
+    "sub": "Busque un prestamista de COMOCOMPRARSUCASA y verifique su elegibilidad para un préstamo con un pago inicial bajo",
+    "btn": "Inicie su cotización →"
+  },
+  "articles": {
+    "Read_article": "Leer artículo →",
+    "How_Fannie_Maes": {
+      "head": "Cómo puede ayudarle la nueva regla de puntuación de crédito de Fannie Mae",
+      "sub": "Los cambios recientes en las pautas de Fannie Mae allanan el camino para la elegibilidad de préstamos hipotecarios, aumentando las tasas de aprobación para los coprestatarios en función de sus puntajes crediticios combinados."
+    },
+    "What_Are_the_Pros_and_Cons": {
+      "head": "¿Cuáles son los pros y los contras de refinanciar su casa?",
+      "sub": "El mercado financiero a veces se refiere a una hipoteca de vivienda como \"deuda buena\". Esto se debe en gran parte a que, a diferencia de una tarjeta de crédito o un préstamo personal, una hipoteca puede ayudarlo a comprar y poseer un activo que puede aumentar de valor a medida que pasa el tiempo."
+    },
+    "What_Veterans_Should": {
+      "head": "Lo que los veteranos deben saber",
+      "sub": "Los préstamos FHA y VA son préstamos respaldados por el gobierno que pueden ser excelentes opciones para los compradores de vivienda por primera vez, y cada uno tiene similitudes y diferencias en términos de requisitos. En esta guía, desglosaremos las calificaciones específicas necesarias para cada préstamo para que pueda determinar cuál es el adecuado para usted al comprar una casa."
+    },
+    "Comparing_FHA_and_Conventional": {
+      "head": "Comparación de préstamos hipotecarios convencionales y de la FHA",
+      "sub": "Cuando se trata de hipotecas, tiene muchas opciones. Dos de las más comunes son la FHA y los préstamos convencionales. Aunque ambos pueden ser excelentes productos para ayudarlo a comprar una casa, cada uno tiene sus pros y sus contras."
+    },
+    "FHA_Loan_Refinancing": {
+      "head": "Opciones de refinanciamiento de préstamos de la FHA",
+      "sub": "La refinanciación puede ser una manera excelente de reducir su pago mensual, acortar el plazo de su préstamo, cambiar los productos crediticios o incluso obtener efectivo de su casa."
+    }
+  }
+}

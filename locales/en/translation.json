@@ -1,0 +1,305 @@
+{
+  "navBar": {
+    "Loan_Program": "Loan Program",
+    "FHA_Loans": "FHA Loans",
+    "VA_Loans": "VA Loans",
+    "Fannie_Mae": "Fannie Mae",
+    "Tools_&_Resources": "Tools & Resources",
+    "More": "More",
+    "Articles": "Articles",
+    "Videos": "Videos",
+    "Check_My_Eligibility": "Check My Eligibility!"
+  },
+  "questionsStep": {
+    "CHECK_YOUR": "CHECK YOUR ELIGIBILITY TODAY!",
+    "LAST_YEAR_OVER": "LAST YEAR OVER 1 MILLION HOMEOWNERS USED OUR LOAN*",
+    "I_want_to": "I want to ",
+    "buy": "buy",
+    "a_home": " a home",
+    "refinance": "refinance",
+    "my_home": " my home",
+    "back": "← Back",
+    "next": "NEXT →",
+    "City_or_Zip_Code": "City or Zip Code",
+    "Cities_and_Zip_Code": "Cities, Zip Codes",
+    "Zip_Code": "Zip Codes",
+    "Zip_Codes": "ZIP Codes",
+    "required": "Required field",
+    "SPEND_NEW_HOME": {
+      "head": "How much do you plan to spend on your new home?",
+      "sub": "(An estimate is fine)",
+      "ans_1": "under $50,000",
+      "ans_2": "$50,000 - $100,000",
+      "ans_3": "$100,000 - $150,000",
+      "ans_4": "$150,000 - $200,000",
+      "ans_5": "$200,000 - $250,000",
+      "ans_6": "$250,000 - $300,000",
+      "ans_7": "$300,000 - $350,000",
+      "ans_8": "$350,000 - $400,000",
+      "ans_9": "$400,000 or more"
+    },
+    "LOAN_TYPE": {
+      "head": "What type of home loan are you refinancing?",
+      "ans_1": "Conventional Loan",
+      "ans_2": "USDA Loan",
+      "ans_3": "VA Loan",
+      "ans_4": "FHA Loan",
+      "ans_5": "I don't know"
+    },
+    "LOAN_GOAL": {
+      "head": "What is your home loan refinancing goal?",
+      "ans_1": "Take Cash Out of My Home",
+      "ans_2": "Pay Off Debts Home",
+      "ans_3": "Lower My Monthly Payments"
+    },
+    "HOME_VALUE": {
+      "head": "What is the value of your home?",
+      "sub": "(An estimate is fine)",
+      "error": "Please enter a valid Value"
+    },
+    "REMAINING_BALANCE": {
+      "head": "What's the remaining balance of your current loan?",
+      "sub": "(An estimate is fine)",
+      "error": "Please enter a valid Value"
+    },
+    "MORTGAGE_INTEREST": {
+      "head": "What is your current mortgage interest rate?",
+      "error": "Please select a valid value",
+      "placeHolder": "Select your current interest rate",
+      "ans_1": "Under 3%",
+      "ans_2": "Over 10%",
+      "ans_3": "I don't know"
+    },
+    "HOME_TYPE": {
+      "head": "What kind of home are you looking for?",
+      "ans_1": "Single Family",
+      "ans_2": "Condominium",
+      "ans_3": "Town Home",
+      "ans_4": "Multi-Family",
+      "ans_5": "Mobile / Manufactured",
+      "ans_6": "New Construction",
+      "ans_7": "Other"
+    },
+    "HOW_USE_HOME": {
+      "head": "How will you use your new home?",
+      "head_1": "How are you using this home?",
+      "ans_1": "Primary Residence",
+      "ans_2": "Secondary / Vacation Home",
+      "ans_3": "Investment Property"
+    },
+    "OWN_LAND": {
+      "head": "Will you own or rent the land your home is on?",
+      "sub": "Your lender will use this information to determine what kind of loan is right for you.",
+      "ans_1": "Own",
+      "ans_2": "Rent"
+    },
+    "FIRST_TIME_USE": {
+      "head": "Is this your first time purchasing a home?",
+      "ans_1": "No",
+      "ans_2": "Yes"
+    },
+    "OWN_HOME": {
+      "head": "Do you currently own a home?",
+      "ans_1": "Yes, I currently own a home",
+      "ans_2": "No, I am currently renting",
+      "ans_3": "No, I have other living arrangements"
+    },
+    "WHEN_PURCHASE": {
+      "head": "When are you planning to make your home purchase?",
+      "ans_1": "Immediately: Signed a Purchase Agreement",
+      "ans_2": "Within 30 Days",
+      "ans_3": "3 - 6 Months",
+      "ans_4": "ASAP: Found a House/Offer Pending",
+      "ans_5": "2 - 3 Months",
+      "ans_6": "6+ Months",
+      "ans_7": "No Time Frame/Still Researching Options"
+    },
+    "SERVED_MILITARY": {
+      "head": "Have you (or your spouse) ever served in the US military?",
+      "sub": "Active-duty military and Veterans may qualify for a VA Loan with $0 down and no PMI.",
+      "ans_1": "No military",
+      "ans_2": "Yes, I (or my spouse) served"
+    },
+    "MILITARY_BRANCH": {
+      "head": "What is your branch of military service?",
+      "ans_1": "Army",
+      "ans_2": "Navy",
+      "ans_3": "Coast Guard",
+      "ans_4": "Military Spouse",
+      "ans_5": "Marine Corps",
+      "ans_6": "Air Force",
+      "ans_7": "National Guard",
+      "ans_8": "Other VA",
+      "ans_9": "No Military"
+    },
+    "DOWN_PAYMENT": {
+      "head": "How much of a down payment would you like to make?",
+      "sub": "(An estimate is fine)",
+      "ans_1": "0%",
+      "ans_2": "5% ($20,000 + )",
+      "ans_3": "15% ($60,000 + )",
+      "ans_4": "3.5% ($14,000 + )",
+      "ans_5": "10% ($40,000 + )",
+      "ans_6": "20% ($80,000 + )",
+      "ans_7": "More than 20%"
+    },
+    "CURRENT_EMPLOYMENT": {
+      "head": "What is your current employment status?",
+      "ans_1": "Employed",
+      "ans_2": "Self-Employed / 1099 Independent Contractor",
+      "ans_3": "Retired",
+      "ans_4": "Not Employed"
+    },
+    "ANNUAL_INCOME": {
+      "head": "What is your household gross (before taxes) annual income?",
+      "ans_1": "Less than $30,000",
+      "ans_2": "$50,000 - $75,000",
+      "ans_3": "$30,000 - $50,000",
+      "ans_4": "$75,000 - $100,000",
+      "ans_5": "Greater than $100,000"
+    },
+    "HAVE_BANKRUPTCY": {
+      "head": "Have you declared bankruptcy in the last 3 years?",
+      "ans_1": "No",
+      "ans_2": "Yes"
+    },
+    "CURRENT_CREDIT_SCORE": {
+      "head": "What is your current credit score?",
+      "ans_1": "Excellent (720+)",
+      "ans_2": "Fair (660-679)",
+      "ans_3": "Poor (580-619)",
+      "ans_4": "Good (680-719)",
+      "ans_5": "Below Average (620-659)",
+      "ans_6": "Bad (Below 580)"
+    },
+    "WORK_REAL_ESTATE": {
+      "head": "Are you working with a real estate agent?",
+      "ans_1": "No",
+      "ans_2": "Yes"
+    },
+    "MORTGAGE_PAYMENT": {
+      "head": "Have you made any late mortgage payments in the last 12 months?",
+      "ans_1": "No",
+      "ans_2": "Yes"
+    },
+    "WHERE_BUY": {
+      "head": "Where are you looking to buy?",
+      "error": "Please enter a valid US location"
+    },
+    "CURRENT_ZIP_CODE": {
+      "head": "What is your current zip code?",
+      "error": "Please enter a valid 5-digit ZIP code"
+    },
+    "CURRENT_ADDRESS": {
+      "head": "What is your current street address and ZIP?",
+      "error": "Please enter a valid 5-digit ZIP code",
+      "Can_not_empty": "Can not empty",
+      "Should_less_30": "Should be less than 30 characters"
+    },
+    "USER_EMAIL": {
+      "head": "What is your email address?",
+      "error": "Please enter a valid US email address",
+      "placeHolder": "Your Email Address"
+    },
+    "USER_NAME": {
+      "head": "What is your name?",
+      "input_1": "First",
+      "input_2": "Last",
+      "Can_not_empty": "Can not empty",
+      "Should_less_20": "Should be less than 20 characters"
+    },
+    "USER_PHONE_NUMBER": {
+      "head": "What's the best number to reach you?",
+      "sub": "A lender will call you to discuss your options",
+      "error": "Please enter a valid US Phone Number",
+      "next": "Get My Lender Match! →"
+    },
+    "THANK_YOU": {
+      "head": "Thank you, ",
+      "sub": "You've been matched with Magnolia Bank, who will be calling or emailing you soon:",
+      "txt_1": "Magnolia Bank ",
+      "txt_2": "- NMLS ID #423028",
+      "txt_3": "Darin Dwyer ",
+      "txt_4": "- NMLS ID #845295",
+      "txt_5": " out of 5, ",
+      "txt_6": " reviews",
+      "txt_7": "Magnolia Bank's Mortgage Division is One of the Top Bank Originators in the Country With Over $1 Billion Dollars in Home Loans Annually",
+      "txt_8": "Loan Amounts From $25,000 to $2,000,000",
+      "txt_9": "Offers Competitive Residential Mortgage Products to All 50 States",
+      "txt_10": "Free, Personalized Rate Quotes",
+      "txt_11": "Options for FICO Scores Below 600",
+      "txt_12": "Call ",
+      "txt_13": " to speak with a loan specialist at Magnolia Bank now!",
+      "txt_14": "In the meantime, check out these personalized offers:",
+      "txt_15": "Next Step - Get Your Instant FICO® Score",
+      "txt_16": " 90% of top lenders use FICO® Scores when making lending decisions.",
+      "txt_17": "View Your Latest Credit Scores and $1 Credit Report In Seconds. It's Quick & Safe!",
+      "txt_18": "With enrollment in Experian CreditWorks ™",
+      "txt_19": "©2021 ImportantScore.com",
+      "txt_20": "Check it Now"
+    },
+    "FAIL_SUBMISSION": {
+      "head": "Fail Submission, ",
+      "sub": "Please Call us to get more details, below were mentioned your details!!"
+    },
+    "LOADING_DETAILS": {
+      "head": "Please wait ",
+      "sub": "We are processing your details!!"
+    }
+  },
+  "homePage": {
+    "Fast_Real": "Fast Real Estate Loans",
+    "A_First": "A First time Homebuyers, Residential, Investors and Commercial Investors who are looking for competitive rates! terms! costs!",
+    "Check_your": "Check your eligibility →",
+    "How": "How it works",
+    "Complete": "Complete Guide to the Loan",
+    "The_below": "The below instructions help you to do the process easily!",
+    "Interview": "INTERVIEW",
+    "Discuss_terms": "Discuss terms and payment scenarios with your investment loan agent",
+    "Terms": "TERMS",
+    "Review_your": "Review your term offer with your loan agent and submit for fast appraisal",
+    "Funding": "FUNDING",
+    "Get_a_fast": "Get a fast approval and zoom to closing - In some cases as fast as 5 days",
+    "What": "What've clients says",
+    "Testimonials": "Testimonials",
+    "Here_you": "Here you can get some idea of what we do and how you can trust us!",
+    "View_All_Videos": "View All Videos",
+    "To_gather": "To gather knowledge",
+    "Articles": "Articles",
+    "You_can": "You can get some basic ideas for some main details you have to know about Loans from here.",
+    "View_All_Articles": "View All Articles"
+  },
+  "callUs": {
+    "head": "Call Us Now",
+    "sub": "COMOCOMPRARSUCASA can not only fuel your projects but guarantee quickness, ease and communication along the way.",
+    "btn": "Get Started →"
+  },
+  "quoteReq": {
+    "head": "Check Official Loan Requirements",
+    "sub": "Get matched with an COMOCOMPRARSUCASA lender and check your eligibility for a low money down loan.",
+    "btn": "Start Your Quote →"
+  },
+  "articles": {
+    "Read_article": "Read article →",
+    "How_Fannie_Maes": {
+      "head": "How Fannie Mae's New Credit Score Rule Can Help You",
+      "sub": "Fannie Mae's recent guideline changes pave the way for mortgage loan eligibility, increasing approval rates for co-borrowers based on their blended credit scores."
+    },
+    "What_Are_the_Pros_and_Cons": {
+      "head": "What Are the Pros and Cons of Refinancing Your Home?",
+      "sub": "The financial market sometimes refers to a home mortgage as “good debt.” This is largely because unlike a credit card or personal loan, a mortgage can help you buy and own an asset that may increase in value as time goes on."
+    },
+    "What_Veterans_Should": {
+      "head": "What Veterans Should Know",
+      "sub": "FHA and VA loans are both government-backed loans that can be great options for first-time homebuyers, with each having similarities and differences in terms of requirements. In this guide, we'll break down the specific qualifications needed for each loan so you can determine which one is right for you when buying a house."
+    },
+    "Comparing_FHA_and_Conventional": {
+      "head": "Comparing FHA and Conventional Home Loans",
+      "sub": "When it comes to mortgages, you have a lot of options. Two of the most common are FHA and conventional loans. Though both can be great products to help you buy a home, each has its own unique pros and cons."
+    },
+    "FHA_Loan_Refinancing": {
+      "head": "FHA Loan Refinancing Options",
+      "sub": "Refinancing can be an excellent way to lower your monthly payment, shorten your loan term, change loan products or even get cash from your home."
+    }
+  }
+}
