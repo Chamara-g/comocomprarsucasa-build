@@ -12,12 +12,12 @@
   },
   "questionsStep": {
     "CHECK_YOUR": "COMPROBAR SU ELEGIBILIDAD HOY!",
-    "LAST_YEAR_OVER": "EL ÚLTIMO AÑO MÁS DE 1 MILLÓN DE PROPIETARIOS USARON NUESTRO PRÉSTAMO *",
+    "LAST_YEAR_OVER": "EL ÚLTIMO AÑO MÁS DE 1 MILLÓN DE PROPIETARIOS USARON NUESTRO SERVICIO *",
     "I_want_to": "Quiero ",
-    "buy": "compra",
-    "a_home": " una casa",
+    "buy": "comprar",
+    "a_home": " una CASA",
     "refinance": "refinanciar",
-    "my_home": " mi casa",
+    "my_home": " mi CASA",
     "back": "← Atrás",
     "next": "SIGUIENTE →",
     "City_or_Zip_Code": "Ciudad o Código Postal",
@@ -72,9 +72,9 @@
     },
     "HOME_TYPE": {
       "head": "¿Qué tipo de casa estás buscando?",
-      "ans_1": "Unifamiliar",
+      "ans_1": "Casa",
       "ans_2": "Condominio",
-      "ans_3": "Casa adosada",
+      "ans_3": "Townhouse",
       "ans_4": "Multifamiliar",
       "ans_5": "Móvil / Fabricado",
       "ans_6": "Construcción nueva",
@@ -145,7 +145,7 @@
     },
     "CURRENT_EMPLOYMENT": {
       "head": "¿Cuál es su situación laboral actual?",
-      "ans_1": "Empleado",
+      "ans_1": "Empleados (W2)",
       "ans_2": "Trabajador autónomo / Contratista independiente 1099",
       "ans_3": "Retirado",
       "ans_4": "No empleado"
@@ -203,8 +203,8 @@
     },
     "USER_NAME": {
       "head": "¿Cómo te llamas?",
-      "input_1": "Primero",
-      "input_2": "Última",
+      "input_1": "Nombre",
+      "input_2": "Apellido",
       "Can_not_empty": "No se puede vaciar",
       "Should_less_20": "Debe tener menos de 20 caracteres"
     },
@@ -212,7 +212,7 @@
       "head": "¿Cuál es el mejor número para localizarlo?",
       "sub": "Un prestamista lo llamará para discutir sus opciones",
       "error": "Introduzca un número de teléfono de EE. UU. válido",
-      "next": "¡Obtenga mi igualación de prestamista! →"
+      "next": "Quiero mas informacion →"
     },
     "THANK_YOU": {
       "head": "Gracias",
