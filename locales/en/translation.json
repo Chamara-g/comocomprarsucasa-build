@@ -216,31 +216,12 @@
     },
     "THANK_YOU": {
       "head": "Thank you, ",
-      "sub": "You've been matched with Magnolia Bank, who will be calling or emailing you soon:",
-      "txt_1": "Magnolia Bank ",
-      "txt_2": "- NMLS ID #423028",
-      "txt_3": "Darin Dwyer ",
-      "txt_4": "- NMLS ID #845295",
-      "txt_5": " out of 5, ",
-      "txt_6": " reviews",
-      "txt_7": "Magnolia Bank's Mortgage Division is One of the Top Bank Originators in the Country With Over $1 Billion Dollars in Home Loans Annually",
-      "txt_8": "Loan Amounts From $25,000 to $2,000,000",
-      "txt_9": "Offers Competitive Residential Mortgage Products to All 50 States",
-      "txt_10": "Free, Personalized Rate Quotes",
-      "txt_11": "Options for FICO Scores Below 600",
-      "txt_12": "Call ",
-      "txt_13": " to speak with a loan specialist at Magnolia Bank now!",
-      "txt_14": "In the meantime, check out these personalized offers:",
-      "txt_15": "Next Step - Get Your Instant FICO® Score",
-      "txt_16": " 90% of top lenders use FICO® Scores when making lending decisions.",
-      "txt_17": "View Your Latest Credit Scores and $1 Credit Report In Seconds. It's Quick & Safe!",
-      "txt_18": "With enrollment in Experian CreditWorks ™",
-      "txt_19": "©2021 ImportantScore.com",
-      "txt_20": "Check it Now"
+      "sub": "You've been matched with our agent, who will be calling or emailing you soon:",
+      "txt_1": "Back to Home"
     },
     "FAIL_SUBMISSION": {
       "head": "Fail Submission, ",
-      "sub": "Please Call us to get more details, below were mentioned your details!!"
+      "sub": "Please Call us to get more details!!"
     },
     "LOADING_DETAILS": {
       "head": "Please wait ",

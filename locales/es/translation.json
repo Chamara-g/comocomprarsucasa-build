@@ -216,31 +216,12 @@
     },
     "THANK_YOU": {
       "head": "Gracias",
-      "sub": "Lo identificaron con Magnolia Bank, quien pronto lo llamará o le enviará un correo electrónico:",
-      "txt_1": "Magnolia Bank",
-      "txt_2": "- NMLS ID # 423028",
-      "txt_3": "Darin Dwyer",
-      "txt_4": "- NMLS ID # 845295",
-      "txt_5": "de 5,",
-      "txt_6": "opiniones",
-      "txt_7": "La división hipotecaria de Magnolia Bank es uno de los principales originadores bancarios del país con más de mil millones de dólares en préstamos hipotecarios al año",
-      "txt_8": "Montos del préstamo desde $ 25,000 hasta $ 2,000,000",
-      "txt_9": "Ofrece productos hipotecarios residenciales competitivos en los 50 estados",
-      "txt_10": "Cotizaciones de tarifas personalizadas y gratuitas",
-      "txt_11": "Opciones para puntuaciones FICO por debajo de 600",
-      "txt_12": "Llamar",
-      "txt_13": "¡para hablar con un especialista en préstamos de Magnolia Bank ahora!",
-      "txt_14": "Mientras tanto, consulte estas ofertas personalizadas:",
-      "txt_15": "Siguiente paso: obtenga su FICO® Score instantáneo",
-      "txt_16": "El 90% de los principales prestamistas utilizan FICO® Scores al tomar decisiones sobre préstamos",
-      "txt_17": "Vea sus puntajes de crédito más recientes y su informe de crédito de $ 1 en segundos. ¡Es rápido y seguro!",
-      "txt_18": "Con inscripción en Experian CreditWorks ™",
-      "txt_19": "© 2021 ImportantScore.com",
-      "txt_20": "Compruébalo ahora"
+      "sub": "Se le ha asignado a nuestro agente, que pronto le llamará o le enviará un correo electrónico:",
+      "txt_1": "De vuelta a casa"
     },
     "FAIL_SUBMISSION": {
       "head": "Reprobar envío",
-      "sub": "¡Llámenos para obtener más detalles, a continuación se mencionan sus datos!"
+      "sub": "¡Llámenos para obtener más detalles!"
     },
     "LOADING_DETAILS": {
       "head": "Por favor, espere",
