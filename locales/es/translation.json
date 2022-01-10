@@ -689,5 +689,12 @@
   "start": {
     "head_1": "¡Comprueba tu elegibilidad hoy!",
     "head_2": "Verifique su elegibilidad para un préstamo hipotecario de BAJO DINERO"
+  },
+  "about": {
+    "txt_1": "Sobre comocomprarsucasa.com",
+    "txt_2": "Más de 15 años de ayudar a nuestros hermanos hispanos, hemos logrado reunir Profesionales con experiencia en cada campo. Relacionado con la compra o venta de un Negocio, propiedad residencial o Comercial. Contamos con Oficiales de Crédito, Bancos , Agentes de Bienes Raíces, Seguros, Contadores, Casas de Título, Abogados y mucho, mucho más. En 4 localidades Miami, Orlando, Houston y Dallas. Para poder brindarle la asesoría gratuita que usted necesita. Él le había dicho que era Gratis. Si , Nuestro Asesoramiento y Calificación es totalmente Gratuito y Confidencial."
+  },
+  "siteMap": {
+    "txt_1": "Mapa del sitio"
   }
 }
