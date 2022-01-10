@@ -8,6 +8,7 @@
     "More": "Mas",
     "Articles": "Artículos",
     "Videos": "Videos",
+    "contact": "Contacto",
     "Check_My_Eligibility": "¡Verifique mi elegibilidad!"
   },
   "questionsStep": {
@@ -663,5 +664,30 @@
       "sub": "Solicitud de una hipoteca Fannie Mae",
       "txt_1": "Empecemos a solicitar una hipoteca Fannie Mae"
     }
+  },
+  "contact": {
+    "txt_1": "PONTE EN CONTACTO",
+    "txt_2": "DAVID CHAVARRÍA",
+    "txt_3": "+1 (786) 201-6363",
+    "txt_4": "davidc@forbesir.com",
+    "txt_5": "VISÍTANOS",
+    "txt_6": "Oficina de Houston:",
+    "txt_7": "2323 s voss rd suite 150-C Houston Tx 77057",
+    "txt_8": "+1 (844) 344-1722",
+    "txt_9": "Oficina de Miami:",
+    "txt_10": "2125 Biscayne Blvd Miami FL, 33137 Suite #325",
+    "txt_11": "+1 (844) 344-5277",
+    "txt_12": "Lunes - Jueves:",
+    "txt_13": "9 am a 6 pm",
+    "txt_14": "Viernes - Sábado:",
+    "txt_15": "10 am a 4 pm",
+    "txt_16": "Domingo:",
+    "txt_17": "Cerrado",
+    "txt_18": "Por Forbes International Real Estate",
+    "txt_19": "Comencemos a verificar su elegibilidad"
+  },
+  "start": {
+    "head_1": "¡Comprueba tu elegibilidad hoy!",
+    "head_2": "Verifique su elegibilidad para un préstamo hipotecario de BAJO DINERO"
   }
 }

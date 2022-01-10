@@ -8,6 +8,7 @@
     "More": "More",
     "Articles": "Articles",
     "Videos": "Videos",
+    "contact": "Contact Us",
     "Check_My_Eligibility": "Check My Eligibility!"
   },
   "questionsStep": {
@@ -663,5 +664,30 @@
       "sub": "Applying for a Fannie Mae Mortgage",
       "txt_1": "Let's start to Applying for a Fannie Mae Mortgage"
     }
+  },
+  "contact": {
+    "txt_1": "GET IN TOUCH",
+    "txt_2": "DAVID CHAVARRIA",
+    "txt_3": "+1 (786) 201-6363",
+    "txt_4": "davidc@forbesir.com",
+    "txt_5": "VISIT US",
+    "txt_6": "Houston Office:",
+    "txt_7": "2323 s voss rd suite 150-C Houston Tx 77057",
+    "txt_8": "+1 (844) 344-1722",
+    "txt_9": "Miami Office:",
+    "txt_10": "2125 Biscayne Blvd Miami FL, 33137 Suite #325",
+    "txt_11": "+1 (844) 344-5277",
+    "txt_12": "Monday - Thursday:",
+    "txt_13": "9 am to 6 pm",
+    "txt_14": "Friday - Saturday:",
+    "txt_15": "10 am to 4 pm",
+    "txt_16": "Sunday:",
+    "txt_17": "Closed",
+    "txt_18": "By Forbes International Real Estate",
+    "txt_19": "Let's get started to check your eligibility"
+  },
+  "start": {
+    "head_1": "Check Your Eligibility Today!",
+    "head_2": "Check your eligibility for a LOW MONEY home loan"
   }
 }
